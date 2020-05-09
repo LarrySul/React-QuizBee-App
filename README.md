@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+Hosted on Netlify 
+Snapshot of the UI  ![Image description](link-to-image) 
 
 ## Available Scripts
 
