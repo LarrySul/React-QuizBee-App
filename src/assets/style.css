@@ -93,4 +93,15 @@
     position: static;
     width: 100%;
   }
+
+  .answerBtn{
+    font-size : 0.7em;
+    margin:5px;
+    padding:5px;
+  }
+
+  .question{
+    font-size:0.9em;
+    margin-bottom: 3px;
+  }
 }
