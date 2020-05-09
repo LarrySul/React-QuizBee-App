@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
-Hosted on Netlify https://adoring-austin-8736a2.netlify.app/
-Snapshot of the UI  ![Image description](https://github.com/LarrySul/React-QuizBee-App/blob/master/public/Screenshot%20(291).png) 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br />
+Hosted on Netlify https://adoring-austin-8736a2.netlify.app/ <br/ >
+Snapshot of the UI  ![Image description](https://github.com/LarrySul/React-QuizBee-App/blob/master/public/Screenshot%20(292).png) 
 
 ## Available Scripts
 
